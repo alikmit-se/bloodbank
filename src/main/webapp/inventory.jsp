@@ -6,6 +6,6 @@
 </head>
 <body>
     <h2>Blood Group Inventory Management</h2>
-    <p>Work in progress...</p>
+    <p>Work in progress..true</p>
 </body>
 </html>
